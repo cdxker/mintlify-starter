@@ -7,6 +7,20 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
+  "seo": {
+    "metatags": {
+      "og:title": "Stably AI - AI-Powered Testing Platform Documentation",
+      "og:description": "Comprehensive documentation for Stably AI, the AI-powered testing platform that prevents bugs on your web app with intelligent test automation.",
+      "og:image": "/images/social-preview.png",
+      "og:type": "website",
+      "og:site_name": "Stably AI Documentation",
+      "twitter:image": "images/social-preview.png",
+      "twitter:site": "@stablyai",
+      "twitter:site:domain": "stably.ai",
+      "apple-mobile-web-app-title": "Stably Docs"
+    },
+    "indexing": "navigable"
+  },
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
@@ -115,7 +129,7 @@
   "integrations": {
     "hightouch": {
       "writeKey": "9f1f42c9278c1543cc4544afea7ecf9f358a0b7f38dd0ff64e5249c05ac67b44",
-      "apiHost": "https://us-east-1.hightouch-events.com" 
+      "apiHost": "https://us-east-1.hightouch-events.com"
     }
   }
 }
